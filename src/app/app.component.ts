@@ -32,4 +32,5 @@ export class AppComponent {
 
   fecha = new Date();
 
+activar = true;
 }
